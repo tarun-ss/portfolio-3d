@@ -1,3 +1,18 @@
+<div align="center">
+  <h1>🚀 3D Portfolio Website</h1>
+  <p>An interactive portfolio showcasing 3D models and modern web technologies</p>
+  
+  ![Portfolio Preview](./screenshots/hero.png)
+
+  <p>
+    <a href="#live-demo">View Demo</a>
+    ·
+    <a href="#features">Features</a>
+    ·
+    <a href="#tech-stack">Tech Stack</a>
+  </p>
+</div>
+
 # 3D Portfolio Website
 
 A modern and interactive portfolio website built with React, Three.js, and TailwindCSS.
