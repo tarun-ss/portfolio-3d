@@ -109,12 +109,10 @@ npm run build
 - **Contact Form**: Fill out the form to send messages directly
 - **Project Cards**: Hover over project cards for more information
 
-## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🤝 Contact
 
-Your Name - [your@email.com](mailto:your@email.com)
+Tarun - [tarun.sathya23@email.com](mailto:tarun.sathya23@email.com)
 
-Project Link: [https://github.com/yourusername/portfolio-3d](https://github.com/yourusername/portfolio-3d)
+Project Link: [https://github.com/yourusername/portfolio-3d](https://github.com/tarun-ss/portfolio-3d)
