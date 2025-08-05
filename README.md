@@ -97,6 +97,6 @@ npm run build
 
 ## 🤝 Contact
 
-Tarun - [your@email.com](mailto:tarun.sathya23@gmail.com)
+Tarun - [tarun.sathya23@email.com](mailto:tarun.sathya23@gmail.com)
 
-Project Link: [https://github.com/yourusername/portfolio-3d](https://github.com/tarun-ss/portfolio-3d)
+Project Link: [https://github.com/tarun-ss/portfolio-3d](https://github.com/tarun-ss/portfolio-3d)
